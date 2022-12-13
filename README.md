@@ -1,2 +1,2 @@
-# crawling_practice
-웹 크롤링 연습
+# Python_practice
+파이썬 학습 자료
